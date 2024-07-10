@@ -10,7 +10,7 @@
 
 ### 데이터 수집
 
-- Riot 공식 API 사용하여 데이터 수집하는 툴 사용 ([`LolCrawler`](https://github.com/cm8908/LolCrawler)
+- Riot 공식 API 사용하여 데이터 수집하는 툴 사용 ([`LolCrawler`](https://github.com/cm8908/LolCrawler))
 - MongoDB에 저장 (약 19만개의 게임 매치 기록 수집)
 
 ### 데이터 전처리
